@@ -1,4 +1,4 @@
-from flask importask
+from flask import Flask
 
 from password import generate_password
 
